@@ -1,1 +1,3 @@
 # catzzz
+
+Experiments with categories
